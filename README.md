@@ -50,7 +50,7 @@ O:
 ### Opción 2: En tu máquina local
 ```bash
 # Clonar el repositorio
-git clone https://github.com/TU_USUARIO/ladb-mobility-economy.git
+git clone https://github.com/Danilesmes/ladb-mobility-economy.git
 cd ladb-mobility-economy
 
 # Instalar dependencias
