@@ -170,8 +170,7 @@ seaborn      # Visualización avanzada y estadística
 ✅ **Resumen ejecutivo**: Incluido en el notebook (Paso 7)
 
 ---
-
-**Última actualización**: Enero 2025  
+ 
 **Sprint**: S5 - LADB Mobility & Economy  
-**Proyecto académico**: Universidad  
+**Proyecto académico**: Bootcamp  
 **Estado**: ✅ Completado
